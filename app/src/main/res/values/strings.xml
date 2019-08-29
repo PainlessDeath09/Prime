@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Prime</string>
+    <string name="conDesc">Provide an input</string>
+    <string name="i">Enter Number</string>
+    <string name="title">Prime Number Test</string>
+    <string name="check">Check</string>
+    <string name="insignia">Akhil Kumar</string>
+</resources>
